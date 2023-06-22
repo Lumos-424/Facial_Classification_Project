@@ -1,4 +1,5 @@
 文件：
+`data.zip`：包含img.npy文件和pca_img.npy，即直接转化原始图像得到的像素点序列和经过pca提取后的特征序列
 
 `add_FS.py`:包括PCA法特征提取、ElasticNetCV进行特征选择、以及分别采用四种经典集成学习算法运行人脸识别任务的内容
 
